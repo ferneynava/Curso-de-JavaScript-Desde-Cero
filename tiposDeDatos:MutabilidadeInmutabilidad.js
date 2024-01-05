@@ -28,7 +28,7 @@ console.log(esVerdad);
 // Tipo de dato complejo - Mutable
 
 let usuario = {nombre : 'Pepito',
-               edad : 25};
+                edad : 25};
 usuario.edad = 30;
 console.log(usuario);
 
