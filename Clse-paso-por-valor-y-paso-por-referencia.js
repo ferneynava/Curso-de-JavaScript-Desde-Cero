@@ -26,7 +26,7 @@ let copiaDePanes = panes;
 panes.push("🥖");
 console.log(panes, copiaDePanes);
 
-// Tipo de daro complejo - Paso por referencia en objetos
+// Tipo de dato complejo - Paso por referencia en objetos
 
 let frutasPreferidas = {
     naranja: "🍊"
