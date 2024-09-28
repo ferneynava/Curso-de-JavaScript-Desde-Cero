@@ -26,6 +26,7 @@ console.log(saludo.toLocaleUpperCase()); // toLocaleUpperCase nos permite conver
 console.log(saludo.toLocaleLowerCase()); // toLocaleLowerCase nos permite convertir un string a minusculas
 console.log(saludo.startsWith('H')); //startsWith nos permite saber si un string empieza con un caracter en especifico
 console.log(saludo.endsWith('?')); //endsWith nos permite saber si un string termina con un caracter en especifico
+console.log(saludo.substring(0, 5)); //substring nos permite cortar un string, el primer parametro es el inicio y el segundo el final.
 
 const saludoDividido = saludo.split(' '); //split nos permite dividir un string en un array, el parametro es el separador
 console.log(saludoDividido);

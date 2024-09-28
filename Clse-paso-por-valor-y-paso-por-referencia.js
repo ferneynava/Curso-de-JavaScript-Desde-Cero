@@ -1,3 +1,6 @@
+/* Paso por valor: es cuando se copia el valor de una variable a otra, pero no se modifica la variable original.
+Paso por referencia: es cuando se copia la referencia de una variable a otra, y si se modifica la variable original, también se modifica la variable que se copió. */
+
 // Paso por valor
 let x = 1;
 let y = "Hola";
